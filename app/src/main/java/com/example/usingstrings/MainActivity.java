@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
 
         Log.i( "Lifecycle", "OnDestroy called");
-
+        
 
     }
 }
